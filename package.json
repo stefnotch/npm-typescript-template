@@ -11,14 +11,13 @@
   },
   "scripts": {
     "build": "tsc",
-    "prepublishOnly": "npm run build"
+    "publish": "np"
   },
   "files": [
     "dist"
   ],
   "keywords": [],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "^4.9.4",
     "np": "7.6.3"
