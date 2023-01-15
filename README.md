@@ -7,4 +7,4 @@ Use the template, make sure to fill out the `package.json` and get going!
 ## Scripts
 
 - `npm run build`
-- `npm run publish`
+- `npm run release`
